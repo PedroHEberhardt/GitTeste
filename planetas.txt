@@ -2,3 +2,5 @@ Terra
 Urano
 Venus
 Marte
+PLUTAO
+MARSELO
